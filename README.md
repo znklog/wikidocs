@@ -1,2 +1,2 @@
-# wikidocs
-wikidocs
+# wikidocs 레포지토리
+위키독스 블로그 또는 책에 올리는 콘텐츠 작성
